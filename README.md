@@ -9,10 +9,18 @@ The following repo will contain my final IoT project for the class Telecommunica
 
 If you have any doubt or issue u cand send me an e-mail to: jorge.zambrano@unmsm.edu.pe
 
-### COURSES
 
-[INTRODUCTION TO FUNDAMENTALS]()</BR>
-[SWITCHING AND ROUTING]()
+### Objetcive
+
+The main goal of the project is to send data from a distance sensor to Amazon web services in order to notify trought emails and automatic reports.
+
+### Process
+
+There are three important steps to follow in order to achive the objetive of the project.
+
+-  Hardware Development
+-  NodeRed Development
+-  Aws Development
 
 ### Software
 
@@ -22,9 +30,6 @@ For coding, its neccesary to download the following programs
 -  Node RED
 -  Arduino IDE
 -  AWS Account
-
-### Contact
-You can do an issue to give an advice or if you have a doubt.
 
 ### License
 Distributed under the MIT License. See `LICENSE` for more information.
