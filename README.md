@@ -10,7 +10,7 @@ The following repo will contain my final IoT project for the class Telecommunica
 If you have any doubt or issue u cand send me an e-mail to: jorge.zambrano@unmsm.edu.pe
 
 
-### Objetcive
+### Objective
 
 The main goal of the project is to send data from a distance sensor to Amazon web services in order to notify trought emails and automatic reports.
 
